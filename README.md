@@ -20,3 +20,4 @@
 ![Docker-compose](https://img.shields.io/badge/-docker&#032;compose-090909?style=for-the-badge&logo=Docker)
 ### ✉️ Mail me: alexey.nikolaenko999@gmail.com
 ### 🌐 Telegram: https://t.me/DoZoR_MO
+### 📄 My web CV: https://dimaxizisd-21.github.io/react_cv/
