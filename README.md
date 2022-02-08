@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Oleksiy**!
+# 👋🏻 Hi, my name is **Oleksii**!
 ## I'm a *Front-end developer* from Ukraine.
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
